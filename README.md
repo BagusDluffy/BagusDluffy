@@ -99,6 +99,9 @@ Explore fun and simple browser-based games made with HTML, CSS, and JavaScript.
   <a href="https://BagusDluffy.github.io/simple-horse-race/" target="_blank">
     <img src="https://img.shields.io/badge/Simple%20Horse%20Race-blue?style=for-the-badge&logo=javascript" alt="Simple Horse Race" />
   </a>
+  <a href="https://bagusdluffy.github.io/simple-alien-shooter/" target="_blank">
+    <img src="https://img.shields.io/badge/Simple%20Horse%20Race-blue?style=for-the-badge&logo=javascript" alt="Simple Horse Race" />
+  </a>
 
   <!-- Tambahkan tombol lainnya di bawah ini jika ada -->
   <!-- Contoh:
