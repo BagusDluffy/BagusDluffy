@@ -72,15 +72,22 @@ A full-stack web & mobile app to monitor student internship activities and gener
 Built using Laravel and React Native.  
 [![View on GitHub](https://img.shields.io/badge/Repo-InternSight--final-181717?style=for-the-badge&logo=github)](https://github.com/BagusDluffy/InternSight-final)
 
-🎮 2D Platformer Horror Game
-A side-scrolling puzzle horror game focused on eerie storytelling and tension-building.
-Made with Godot Engine and pixel-art assets.
+---
+
+🎮 **2D Platformer Horror Game**  
+A side-scrolling puzzle horror game focused on eerie storytelling and tension-building.  
+Made with Godot Engine and pixel-art assets.  
+
 ![Coming Soon](https://img.shields.io/badge/Coming--Soon-gray?style=for-the-badge&logo=ghost)
 
-🌐 Portfolio Website
-A clean, responsive website to showcase my skills, projects, and contact information.
-Designed with simplicity and clarity in mind.
+---
+
+🌐 **Portfolio Website**  
+A clean, responsive website to showcase my skills, projects, and contact information.  
+Designed with simplicity and clarity in mind.  
+
 ![Coming Soon](https://img.shields.io/badge/Coming--Soon-gray?style=for-the-badge&logo=minutemailer)
+
 
 ---
 
