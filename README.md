@@ -76,7 +76,7 @@ Built using Laravel and React Native.
 
 🎮 **2D Platformer Horror Game**  
 A side-scrolling puzzle horror game focused on eerie storytelling and tension-building.  
-Made with Godot Engine and pixel-art assets.  
+Made with Godot Engine and pixel-art assets.
 
 ![Coming Soon](https://img.shields.io/badge/Coming--Soon-gray?style=for-the-badge&logo=ghost)
 
@@ -84,10 +84,9 @@ Made with Godot Engine and pixel-art assets.
 
 🌐 **Portfolio Website**  
 A clean, responsive website to showcase my skills, projects, and contact information.  
-Designed with simplicity and clarity in mind.  
+Designed with simplicity and clarity in mind.
 
 ![Coming Soon](https://img.shields.io/badge/Coming--Soon-gray?style=for-the-badge&logo=minutemailer)
-
 
 ---
 
@@ -100,7 +99,7 @@ Explore fun and simple browser-based games made with HTML, CSS, and JavaScript.
     <img src="https://img.shields.io/badge/Simple%20Horse%20Race-blue?style=for-the-badge&logo=javascript" alt="Simple Horse Race" />
   </a>
   <a href="https://bagusdluffy.github.io/simple-alien-shooter/" target="_blank">
-    <img src="https://img.shields.io/badge/Simple%20Horse%20Race-blue?style=for-the-badge&logo=javascript" alt="Simple Horse Race" />
+    <img src="https://img.shields.io/badge/Simple%20Horse%20Race-blue?style=for-the-badge&logo=javascript" alt="Simple Alien Shooter" />
   </a>
 
   <!-- Tambahkan tombol lainnya di bawah ini jika ada -->
