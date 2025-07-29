@@ -101,13 +101,10 @@ Explore fun and simple browser-based games made with HTML, CSS, and JavaScript.
   <a href="https://bagusdluffy.github.io/simple-alien-shooter/" target="_blank">
     <img src="https://img.shields.io/badge/Simple%20Alien%20Race-blue?style=for-the-badge&logo=javascript" alt="Simple Alien Shooter" />
   </a>
-
-  <!-- Tambahkan tombol lainnya di bawah ini jika ada -->
-  <!-- Contoh:
-  <a href="https://BagusDluffy.github.io/another-game/" target="_blank">
-    <img src="https://img.shields.io/badge/Another%20Game-green?style=for-the-badge&logo=html5" alt="Another Game" />
+  <a href="https://bagusdluffy.github.io/simple-spin-wheel//" target="_blank">
+    <img src="https://img.shields.io/badge/Simple%20Spin%20Wheel-blue?style=for-the-badge&logo=javascript" alt="Simple Spin Wheel" />
   </a>
-  -->
+
 </p>
 
 ---
