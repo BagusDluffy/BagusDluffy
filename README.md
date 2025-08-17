@@ -4,9 +4,9 @@
 
 ![cattt](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa293Znc3YXh3bW50YzRnOTl1ajA2NmQyamN3NGx6OThtamUzemVrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uEnzove3L1p9XCu2iq/giphy.gif)
 <br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagussetyohadi28@gmail.com)
-![https://www.linkedin.com/in/bagus-setyo-hadi-512a41347/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://www.instagram.com/bagussetyo28/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=bagussetyohadi28@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagus-setyo-hadi-512a41347/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bagussetyo28/)
 
 ---
 
@@ -109,6 +109,9 @@ Explore fun and simple browser-based games made with HTML, CSS, and JavaScript.
   </a>
   <a href="https://bagusdluffy.github.io/whack-a-mole/" target="_blank">
     <img src="https://img.shields.io/badge/Whack%20A%20Mole-blue?style=for-the-badge&logo=javascript" alt="Whack A Mole" />
+  </a>
+  <a href="https://bagusdluffy.github.io/simple-flappy-bird/" target="_blank">
+    <img src="https://img.shields.io/badge/Simple%20Flappy%20Bird-blue?style=for-the-badge&logo=javascript" alt="Simple Flappy Bird" />
   </a>
 
 </p>
