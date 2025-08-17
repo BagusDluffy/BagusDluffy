@@ -104,6 +104,12 @@ Explore fun and simple browser-based games made with HTML, CSS, and JavaScript.
   <a href="https://bagusdluffy.github.io/simple-spin-wheel//" target="_blank">
     <img src="https://img.shields.io/badge/Simple%20Spin%20Wheel-blue?style=for-the-badge&logo=javascript" alt="Simple Spin Wheel" />
   </a>
+  <a href="https://bagusdluffy.github.io/simple-ping-pong/" target="_blank">
+    <img src="https://img.shields.io/badge/Simple%20Ping%20Pong-blue?style=for-the-badge&logo=javascript" alt="Simple Ping Pong" />
+  </a>
+  <a href="https://bagusdluffy.github.io/whack-a-mole/" target="_blank">
+    <img src="https://img.shields.io/badge/Whack%20A%20Mole-blue?style=for-the-badge&logo=javascript" alt="Whack A Mole" />
+  </a>
 
 </p>
 
