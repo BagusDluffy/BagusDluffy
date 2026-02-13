@@ -2,7 +2,7 @@
 
 #### 🎮 Game Developer | 💻 Web Developer | 🎓 Game Tech Student
 
-![cattt](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa293Znc3YXh3bW50YzRnOTl1ajA2NmQyamN3NGx6OThtamUzemVrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uEnzove3L1p9XCu2iq/giphy.gif)
+![rabbit](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9xMnF4cGdyZXJydnduMXQyZGF6NGlodDNnZXZ2dzJsMTBlcmg5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkcIQY7IuctvFCGAD3/giphy.gif)
 <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=bagussetyohadi28@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagus-setyo-hadi-512a41347/)
