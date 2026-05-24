@@ -62,7 +62,7 @@ I am a **Freshman at Game Technology** at PENS (Politeknik Elektronika Negeri Su
 | :--- | :--- | :---: |
 | **InternSight** | Full-stack web & mobile app to monitor student internship activities. (Laravel & React Native) | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/BagusDluffy/InternSight-final) |
 | **2D Platformer Horror** | A side-scrolling puzzle horror game with eerie storytelling. (Godot) | 🟡 *WIP* |
-| **Portfolio Website** | Clean, responsive website to showcase my skills and projects. | 🟡 *WIP* |
+| **Portfolio Website** | Clean, responsive website to showcase my skills and projects. | [![Live Site](https://img.shields.io/badge/Portfolio-Visit%20Site-181717?style=flat&logo=netlify&logoColor=00C7B7)](https://portofolio-bagus.netlify.app/) |
 
 ---
 
